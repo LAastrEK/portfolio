@@ -1,0 +1,7 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit <something>, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<Эту строчку нужно удалить, или нет? Да, удалите её!!!!>
+Duis aute <something_new> irure dolor in reprehenderit in voluptate velit <Лишнее слово!> esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non <Какое-то слово> proident, sunt in culp
+<НИчего важного>
+>>>>>>> parent of 02e5786 (удалена строчка в конфликте)
