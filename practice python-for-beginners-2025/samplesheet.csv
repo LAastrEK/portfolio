@@ -1,6 +1,0 @@
-sample_id,project,group,lane,barcode
-S1,ProjA,case,1,ACGTAC
-S2,ProjA,control,1,ACGTAC
-S3,ProjA,case,1,TGCAAA
-S4,ProjB,control,2,CCGGTT
-S5,ProjB,case,2,AAACCC
